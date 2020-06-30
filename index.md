@@ -1,2 +1,2 @@
-<h1>MegaMan</h1>
+<h1>MegaManMaaaan</h1>
 A website
