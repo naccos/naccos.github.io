@@ -1,2 +1,2 @@
-<h1>MegaMan</h1>
+<h1>MegaMan
 A website for my favourite character is currently being built here!
